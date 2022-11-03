@@ -1,0 +1,22 @@
+body{
+    background-color: #f7ece4;
+    
+}
+h1{
+    color: #f1ebe7;
+    background-color: #332c2c;
+    font-family: Monospace;
+    text-align:center;
+}
+p{
+    font-family: Monospace;
+    font-size: 17px;
+    font-style: normal;
+    text-align: justify;
+}
+h2{
+    font-family: Monospace;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bolder;
+}
